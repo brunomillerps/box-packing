@@ -1,0 +1,14 @@
+com/mobiquityinc/infra/BoxItemsReader.class
+com/mobiquityinc/domain/knapsack/KnapsackSubSetFixedPointProblem.class
+com/mobiquityinc/infra/ItemsConverter.class
+com/mobiquityinc/infra/file/FileBoxItemsReader.class
+com/mobiquityinc/domain/knapsack/Knapsack.class
+com/mobiquityinc/packer/Packer.class
+com/mobiquityinc/infra/converters/ItemStringSpliter.class
+com/mobiquityinc/domain/box/Item.class
+com/mobiquityinc/domain/problem/SubSetProblem.class
+com/mobiquityinc/exception/APIException.class
+com/mobiquityinc/domain/box/BoxPackingProblem.class
+com/mobiquityinc/BoxPackingApplication.class
+com/mobiquityinc/infra/converters/GroupItemsConverter.class
+com/mobiquityinc/infra/converters/DefaultItemStringSpliter.class

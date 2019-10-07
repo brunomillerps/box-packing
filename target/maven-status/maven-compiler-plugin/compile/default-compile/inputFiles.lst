@@ -1,0 +1,14 @@
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/domain/knapsack/KnapsackSubSetFixedPointProblem.java
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/BoxPackingApplication.java
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/exception/APIException.java
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/infra/file/FileBoxItemsReader.java
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/infra/converters/DefaultItemStringSpliter.java
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/domain/knapsack/Knapsack.java
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/domain/box/Item.java
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/infra/converters/GroupItemsConverter.java
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/domain/box/BoxPackingProblem.java
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/infra/converters/ItemSpliter.java
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/packer/Packer.java
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/domain/problem/SubSetProblem.java
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/infra/ItemsConverter.java
+/home/mtuser/work/study/box-packing/src/main/java/com/mobiquityinc/infra/BoxItemsReader.java

@@ -1,0 +1,4 @@
+com/mobiquityinc/infra/converters/GroupItemsConverterTest.class
+com/mobiquityinc/infra/FileBoxItemsReaderTest.class
+com/mobiquityinc/infra/converters/DefaultItemStringSpliterTest.class
+com/mobiquityinc/packer/PackerTest.class
